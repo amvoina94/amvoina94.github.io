@@ -1,4 +1,43 @@
+#social-buttons button {
+	color: white;
+}
+.btn-twitter {
+	background-color: #00acee;
+	border-color: #009ad5;
+}
+.btn-facebook{
+	background-color: #4868ac;
+	border-color: #314776;
+}
+.btn-pinterest{
+	font-size: 15px;
+	background-color: #ffffff;
+	border-color: #ffffff;
+}
+
+.btn-instagram{
+	font-size: 15px;
+	background-color: #ffffff;
+	border-color: #ffffff;
+}
+
+body {
+	padding-top: 40px;
+	background-color: #ffffff;
+
+}
 
 h1{
-  color:green;
+  color:black;
 }
+
+h2{
+	color:black;
+	font-family: Arial;
+	font-size: 30px;
+}
+
+h3{
+	position: center;
+}
+
