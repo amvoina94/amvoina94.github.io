@@ -22,8 +22,12 @@
 }
 
 body {
-	padding-top: 40px;
+	padding-top: 60px;
 	background-color: #ffffff;
+
+
+}
+.btn-success{
 
 }
 
@@ -38,6 +42,8 @@ h2{
 }
 
 h3{
-	position: center;
+	color:#747574;
+	font-family: Arial;
+	font-size: 8px;
 }
 
